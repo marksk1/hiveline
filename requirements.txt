@@ -14,3 +14,4 @@ python-dotenv
 folium
 selenium
 seaborn
+python-dotenv
